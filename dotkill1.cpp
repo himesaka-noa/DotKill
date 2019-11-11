@@ -1,5 +1,5 @@
-#include "VapourSynth.h"
-#include "VSHelper.h"
+#include "vapoursynth/VapourSynth.h"
+#include "vapoursynth/VSHelper.h"
 #include <algorithm>
 #include <memory>
 #include <cstdlib>
